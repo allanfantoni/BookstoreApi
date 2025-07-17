@@ -11,8 +11,7 @@ Ready for the challenge requirements?
 
 ### Requirements
 
-1. **Suggested data and fields**
-A book should have the following fields:
+1. **Suggested data and fields** - A book should have the following fields:
    - A unique ID to identify each book
    - A title
    - An author
