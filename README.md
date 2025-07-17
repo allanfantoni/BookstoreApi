@@ -11,20 +11,20 @@ Ready for the challenge requirements?
 
 ### Requirements
 
-**Suggested data and fields**
+1. **Suggested data and fields**
 A book should have the following fields:
-	- A unique ID to identify each book
-	- A title
-	- An author
-	- A genre (***you can define genres such as fiction, romance, mystery, for example***)
-	- A price
-	- Quantity in stock
+   - A unique ID to identify each book
+   - A title
+   - An author
+   - A genre (***you can define genres such as fiction, romance, mystery, for example***)
+   - A price
+   - Quantity in stock
 
-**Required endpoints**
-	- It should be possible to create a book
-	- It should be possible to list all books
-	- It should be possible to edit a book's information
-	- It should be possible to delete a book
+2. **Required endpoints**
+   - It should be possible to create a book
+   - It should be possible to list all books
+   - It should be possible to edit a book's information
+   - It should be possible to delete a book
 
 Remember to return the appropriate HTTP status codes for each operation. 😉
 
